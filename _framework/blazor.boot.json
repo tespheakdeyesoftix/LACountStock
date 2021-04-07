@@ -22,7 +22,7 @@
       "Microsoft.JSInterop.dll": "sha256-DhkqJepRMnjz2gMovJcAGCl6mXIX\/NpfdfSnvTto5\/8=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-UwgpwjCHmUhISv5eMMiYhjnJhBAudE0gLHyB4B\/kLpQ=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "BlazorApp20.dll": "sha256-b2atgHf8a2lBjIOloHcinmenuHV6\/h1xLQOhdnyiH+k=",
+      "BlazorApp20.dll": "sha256-r3oWi65HcANvMbOtQX73S0eAjuhjzDEW9uN5Gez4Nu0=",
       "System.Collections.Concurrent.dll": "sha256-SfuiZ9o9O\/N\/LSfSQSOfGAnPC0U94Kxtjlu06JKL1QU=",
       "System.Collections.Immutable.dll": "sha256-XVywGyqlbvFU5nwksm1oUjxqHNchcLUZHgDnqpyrye4=",
       "System.Collections.dll": "sha256-b2gHIgEPpM+KQcXiNxHak95qwQNT95AdEHK0aesdjaQ=",
@@ -45,6 +45,7 @@
     "lazyAssembly": null,
     "pdb": null,
     "runtime": {
+      "dotnet.timezones.blat": "sha256-rFG55cwkAnfHzxmxwBL2tTwfj8X8cjcSEAlco4bc1eo=",
       "dotnet.wasm": "sha256-+NqBIg7FTMeA2q0mxzbehfuE2WPrnq53yqLsu47afbY=",
       "icudt.dat": "sha256-m7NyeXyxM+CL04jr9ui1Z6pVfMWwhHusuz5qNZWpAwA=",
       "icudt_CJK.dat": "sha256-91bygK5voY9lG5wxP0\/uj7uH5xljF9u7iWnSldT1Z\/g=",
